@@ -2,7 +2,7 @@ class Toodoos < Formula
   desc "Minimal macOS menu-bar todo app with global hotkey"
   homepage "https://github.com/atharvanihalani/toodoos"
   url "https://github.com/atharvanihalani/toodoos/archive/refs/tags/v1.0.tar.gz"
-  sha256 :no_check
+  sha256 "a6e85cdb454f233e50db7413bdfc0c15495083bb347b091d49b5f02633b94ba7"
   license :cannot_represent
 
   depends_on :macos
